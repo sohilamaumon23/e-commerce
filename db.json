@@ -1,0 +1,136 @@
+{
+  "products": [
+    {
+      "id": "4",
+      "title": "Red Lipstick",
+      "description": "The Eyeshadow Palette with Mirror ",
+      "category": "beauty",
+      "price": 12.99,
+      "tags": [
+        "beauty",
+        "lipstick"
+      ],
+      "brand": "Chic Cosmetics",
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/thumbnail.png"
+    },
+    {
+      "id": "5",
+      "title": "Red Nail Polish",
+      "description": "The Eyeshadow Palette with Mirror ",
+      "category": "beauty",
+      "price": 8.99,
+      "tags": [
+        "beauty",
+        "nail polish"
+      ],
+      "brand": "Nail Couture",
+      "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/thumbnail.png"
+    },
+    {
+      "id": "6",
+      "title": "Calvin Klein CK One",
+      "description": "The Eyeshadow Palette with Mirror ",
+      "category": "fragrances",
+      "price": 49.99,
+      "tags": [
+        "fragrances",
+        "perfumes"
+      ],
+      "brand": "Calvin Klein",
+      "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/thumbnail.png"
+    },
+    {
+      "id": "7",
+      "title": "Chanel Coco Noir Eau De",
+      "description": "The Eyeshadow Palette with Mirror ",
+      "category": "fragrances",
+      "price": 129.99,
+      "tags": [
+        "fragrances",
+        "perfumes"
+      ],
+      "brand": "Chanel",
+      "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/thumbnail.png"
+    },
+    {
+      "id": "8",
+      "title": "Dior J'adore",
+      "description": "The Eyeshadow Palette with Mirror ",
+      "category": "fragrances",
+      "price": 89.99,
+      "tags": [
+        "fragrances",
+        "perfumes"
+      ],
+      "brand": "Dior",
+      "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/thumbnail.png"
+    }
+  ],
+  "users": [
+    {
+      "id": "2591",
+      "firstname": "sohila",
+      "lastname": "maumon",
+      "username": "lolo",
+      "email": "sohilamaumon23@gmail.com",
+      "password": "1234567",
+      "image": "http//wertyuiop",
+      "city": "egypt",
+      "gender": "Female",
+      "phone": "01277664512",
+      "role": "admin"
+    },
+    {
+      "id": "2817",
+      "firstname": "Alia",
+      "lastname": "qwerty",
+      "username": "qwertyui",
+      "email": "Alia13@gmail.com",
+      "password": "12345678",
+      "image": "qwertyuiop",
+      "city": "sdfghjk",
+      "gender": "Female",
+      "phone": "01266778123",
+      "role": "user"
+    },
+    {
+      "id": "5550",
+      "firstname": "lolo",
+      "lastname": "maumon",
+      "username": "lolo",
+      "email": "lolo@gmail.com",
+      "password": "1234567",
+      "image": "\"http//wertyuiop",
+      "city": "Egypt",
+      "gender": "Female",
+      "phone": "01281001185",
+      "role": "user"
+    },
+    {
+      "id": "ca77",
+      "firstname": "totti",
+      "lastname": "mohamed",
+      "username": "totti",
+      "email": "totti@gmail.com",
+      "password": "1234567",
+      "image": "\"http//wertyuiop",
+      "city": "Egypt",
+      "gender": "Female",
+      "phone": "01281001185",
+      "role": "user"
+    },
+    {
+      "id": "0c87",
+      "firstname": "soso",
+      "lastname": "mahmoud",
+      "username": "soso",
+      "email": "soso13@gmail.com",
+      "password": "24681012",
+      "image": "http//wertyuiop",
+      "city": "Egypt",
+      "gender": "Female",
+      "phone": "01256897412",
+      "role": "user"
+    }
+  ]
+}

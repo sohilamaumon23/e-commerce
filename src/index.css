@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.active{
+color:rgb(127, 129, 255);
+}
+
+.hidden-element{
+    display:none;
+  transition: 0.7ms;
+}
+.test:hover .product{
+display:none ;
+}
+
+.test:hover .hidden-element{
+    display:block ;
+    }
+
+    .test:hover .descripte{
+        display: none;
+    }
